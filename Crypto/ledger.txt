@@ -1,0 +1,2 @@
+First open the Block_ledger.py and leave it a side
+Now open Block_minor.py to perform transactions
